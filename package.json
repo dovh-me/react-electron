@@ -94,10 +94,6 @@
       "repo": "electron-react-boilerplate"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
-  },
   "author": {
     "name": "Osura Hettiarachchi",
     "email": "h.osura@directfn.com"
